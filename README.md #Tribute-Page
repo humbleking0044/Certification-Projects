@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title id="title">Mr Afuwape Seifudeen</title>
+  </head>
+  <main id="main">
+    <style>
+      #image{
+        max-width: 100%;
+        height: auto;
+
+      }
+      img{
+        display: block;
+      }
+    </style>
+    <title id="title">Mr Afuwape Seifudeen</title>
+    <div id="img-div">
+      <img-div height="auto">
+      <center><img id="image">
+      <figcaption id="img-caption">My Great Dad</figcaption>
+      <tribute id="tribute-info">This is a tribute to my late dad;a jewel of inestimable value</tribute>
+      <a link-rel="stylesheet" href="styles.css" id="tribute-link" target="_blank" ></a>
+      </img-div>
+      </div>
+  </main>
+</html>
