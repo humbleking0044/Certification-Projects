@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles.css">
+    <welcome-section id="welcome-section">
+      <h1>Personal Portfolio Webpage</h1>
+      </welcome-section>
+      <projects-section id="projects">
+        <a class="project-tile"></a>
+        <a class="project-tile"></a>
+        </projects-section>
+        <nav id="navbar">
+          <a href="#Intro"></a>
+          <a href="#Content"></a>
+          <a id="profile-link" target="_blank"></a>
+          <a id="profile-link" target="_blank"></a>
+</nav>
+  </head>
+  <body>
+  </body>
+<style>
+ nav{
+  position: fixed;
+  width: 100%;
+  text-align: right;
+  font-size: 24pt;
+  top: 0%;
+  right: 5px;
+  
+ }
+   
+   @media screen and (max-width: 500px) {
+  body {
+    background-color: blue;
+  }
+  @media screen and (max-width: 500px) {
+  body {
+    background-color: green;
+  }
+         header {
+  position: fixed;
+  top: 0px;
+}   
+</style>
+</html>
