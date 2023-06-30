@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="styles.css">
+<main>
+  <head>
+    <meta charset="UTF-80">
+    <header id="header">Product Landing page
+      <img id="header-img" src=""></img>
+       <nav id="nav-bar">
+         <ul>
+         <li><a href="#Chlorine" class="nav-link">Chlorine</a></li>
+      <li>   <a href="#Rust" class="nav-link">Rust</a></li>
+        <li> <a href="#Power" class="nav-link">Powder</a></li>
+        
+         </ul>
+
+         <div id="Chlorine">
+</div>
+<div id="Rust">
+</div>
+<div id="Power">
+</div>
+         
+         <style type="style/css">
+                @media screen and (max-width:500px){
+                display: flex;
+                }
+                }
+                               @media screen and (max-width:400px){
+                }
+ display: flex;
+                
+                </style>
+        </nav>
+        <meta content="viewport">
+      </header>
+       
+  </head>
+  <body>
+   
+        
+    <video id="video" src="https://www.youtube.com/watch?v=njnDSiyhFdk&pp=ygUPcHJvZHVjdCBsYW5kaW5n"></video>
+    <form id="form" action="https://www.freecodecamp.com/email-submit">
+      <input id="email" placeholder="email" type="email" name="email"><input>
+      <input id="submit" type="submit"></input>
+      
+    </form>
+    </main>
+  </body>
+  <style>
+    @media screen and (max-width:500px)
+{
+        nav{       display: flex;
+                }
+                }
+                               @media screen and (max-width:400px){
+                nav-link{
+ display: flex;}
+                               }
+    </style>
+</html>
