@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1 id="title">First Survey</h1>
+</head>
+<body>
+<p id="description">The genesis of greatness</p>
+<form id="survey-form">name<input id="name" type="text" required placeholder="surname first">
+email<input id="email" type="email" required placeholder="email only">number<input id="number" type="number" min="1" max="10" placeholder="nu">
+<label id="name-label">name</label>
+<label id="email-label">email</label>
+<label id="number-label">number</label>
+<select id="dropdown"><option><input type="radio" value="2" name="Abdul"></option></select>
+<select id="dropdown"><option><input type="radio" value="2" name="Abdul"></option>
+<input type="checkbox" value="4">
+<input type="checkbox" value="4">
+<checkbox></checkbox>
+</select>
+<textarea></textarea>
+<button><input id="submit" type="submit"></button>
+</form>
+</body>
+</html>
