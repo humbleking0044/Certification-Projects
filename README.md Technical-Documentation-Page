@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="styles.css">
+  <main id="main-doc">technical documentation
+    <section class="main-section" id="Technical_Documentation_Page">
+      <header><p></p><li></li><li></li><h1>Technical Documentation Page</h1></header>
+    </section>
+    <section class="main-section" id="Introduction"><header><p></p><h2>Introduction</h2></header></section>
+    <section class="main-section" id="What"><header><p></p><li></li><li></li><h3>What</h3></header></section>
+    <section class="main-section" id="JavaScript_and_Java"><header><p></p><p></p><p></p><code></code><code></code><code></code><li></li><li></li><h4>JavaScript and Java</h4></header></section>
+    <section class="main-section" id="Hello_World"><header><p></p><p></p><code></code><li></li><li></li><h5>Hello World</h5></header></section>
+    <section class="main-section" id="Variables"><header><p></p><p></p><p></p><p></p><code></code><code></code><h6>Variables</h6></header></section>
+    <section class="main-section" id="Declaring_Variables"><header><p></p><p><li></li><h7>Declaring Variables</h7></header></section>
+    <nav id="navbar"><header>Technical Documentation</header>
+    <a class="nav-link" href="#Technical_Documentation_Page">Technical Documentation Page</a>
+      <a class="nav-link" href="#Introduction">
+        Introduction</a>
+        <a class="nav-link" href="#What">
+          What</a>
+          <a class="nav-link" href="#JavaScript_and_Java">
+            JavaScript and Java</a>
+            <a class="nav-link" href="#Hello_World">
+              Hello World</a>
+              <a class="nav-link" href="#Variables">
+                Variables</a>
+                <a class="nav-link" href="#Declaring_Variables">
+                  Declaring Variables</a>
+                <style type="style/css">
+                @media screen and (max-width:500px){
+                }
+                
+                </style>
+  </nav>
+  </main>
+  <head></head>
+  <body>
+    <h1>media query</h1>
+  </body>
+  <title></title>
+  <style>
+    html{
+  background-color: orange
+}
+main{
+  color: blue
+}
+#main-doc{
+  color:red
+}
+.main-section{
+  color: green
+}
+#navbar{
+  color: rgb(30,49, 30)
+}
+.nav-link{
+  color: rgb(65, 30, 40)
+}
+@media screen and (max-width:500px){
+id{
+  color: blue;
+}
+}
+
+  </style>
+</html>
